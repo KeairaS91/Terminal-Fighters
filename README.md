@@ -13,9 +13,9 @@ If statements
 While loops
 User input
 Random module
-🚀 What I’m Learning
+ What I’m Learning
 I am currently learning Python fundamentals and building small projects to strengthen my understanding of logic and control flow.
-🔮 Future Improvements
+ Future Improvements
 Add different difficulty levels
 Add special moves
 Add health bars
